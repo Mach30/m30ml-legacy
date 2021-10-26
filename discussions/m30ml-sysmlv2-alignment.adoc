@@ -1,0 +1,24 @@
+= m30ml to sysml v2 alignment
+
+.m30ml to sysml v2 element mapping
+[cols="1,1"]  
+|===
+
+a|*m30ml*
+a|*sysml v2*
+
+a|Elementfootnote:[https://github.com/Mach30/m30ml#element]
+a|Elements & Relationshipsfootnote:[https://raw.githubusercontent.com/Systems-Modeling/SysML-v2-Release/master/doc/2-OMG_Systems_Modeling_Language.pdf#%5B%7B%22num%22%3A106%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C0%2C302%2C0%5D]
+
+a|Data Structurefootnote:[https://github.com/Mach30/m30ml#data-structure]
+a|Definition & Usagefootnote:[https://raw.githubusercontent.com/Systems-Modeling/SysML-v2-Release/master/doc/2-OMG_Systems_Modeling_Language.pdf#%5B%7B%22num%22%3A126%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C0%2C210%2C0%5D]
+
+a|Referencefootnote:[https://github.com/Mach30/m30ml#reference]
+a|Annotationsfootnote:[https://raw.githubusercontent.com/Systems-Modeling/SysML-v2-Release/master/doc/2-OMG_Systems_Modeling_Language.pdf#%5B%7B%22num%22%3A108%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C0%2C601%2C0%5D]
+
+a|Stakeholder Needfootnote:[https://github.com/Mach30/m30ml#stakeholder-need]
+a|Stakeholders and Concernsfootnote:[https://raw.githubusercontent.com/Systems-Modeling/SysML-v2-Release/master/doc/Intro%20to%20the%20SysML%20v2%20Language-Textual%20Notation.pdf#page=105]
+
+a|User Storyfootnote:[https://github.com/Mach30/m30ml#user-story]
+a|Use Case Definitionfootnote:[https://raw.githubusercontent.com/Systems-Modeling/SysML-v2-Release/master/doc/Intro%20to%20the%20SysML%20v2%20Language-Textual%20Notation.pdf#page=93]
+|===
