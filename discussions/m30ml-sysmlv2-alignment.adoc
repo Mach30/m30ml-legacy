@@ -7,18 +7,18 @@
 a|*m30ml*
 a|*sysml v2*
 
-a|Element (see https://github.com/Mach30/m30ml#element[Element])
-a|Elements & Relationships (see https://raw.githubusercontent.com/Systems-Modeling/SysML-v2-Release/master/doc/2-OMG_Systems_Modeling_Language.pdf#%5B%7B%22num%22%3A106%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C0%2C302%2C0%5D[7.2 Elements and Relations])
+a|Element (see https://github.com/Mach30/m30ml#element[Element, window="_blank"])
+a|Elements & Relationships (see https://raw.githubusercontent.com/Systems-Modeling/SysML-v2-Release/master/doc/2-OMG_Systems_Modeling_Language.pdf#%5B%7B%22num%22%3A106%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C0%2C302%2C0%5D[7.2 Elements and Relations, window="_blank"])
 
-a|Data Structure (see https://github.com/Mach30/m30ml#data-structure[Data Structure])
-a|Definition & Usage (see https://raw.githubusercontent.com/Systems-Modeling/SysML-v2-Release/master/doc/2-OMG_Systems_Modeling_Language.pdf#%5B%7B%22num%22%3A126%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C0%2C210%2C0%5D[7.6 Definition and Usage]
+a|Data Structure (see https://github.com/Mach30/m30ml#data-structure[Data Structure, window="_blank"])
+a|Definition & Usage (see https://raw.githubusercontent.com/Systems-Modeling/SysML-v2-Release/master/doc/2-OMG_Systems_Modeling_Language.pdf#%5B%7B%22num%22%3A126%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C0%2C210%2C0%5D[7.6 Definition and Usage, window="_blank"]
 
-a|Reference (see https://github.com/Mach30/m30ml#reference[Reference])
-a|Annotations (see https://raw.githubusercontent.com/Systems-Modeling/SysML-v2-Release/master/doc/2-OMG_Systems_Modeling_Language.pdf#%5B%7B%22num%22%3A108%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C0%2C601%2C0%5D[7.3 Annotations])
+a|Reference (see https://github.com/Mach30/m30ml#reference[Reference, window="_blank"])
+a|Annotations (see https://raw.githubusercontent.com/Systems-Modeling/SysML-v2-Release/master/doc/2-OMG_Systems_Modeling_Language.pdf#%5B%7B%22num%22%3A108%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C0%2C601%2C0%5D[7.3 Annotations, window="_blank"])
 
-a|Stakeholder Need (see https://github.com/Mach30/m30ml#stakeholder-need[Stakeholder Need])
-a|Stakeholders and Concerns (see https://raw.githubusercontent.com/Systems-Modeling/SysML-v2-Release/master/doc/Intro%20to%20the%20SysML%20v2%20Language-Textual%20Notation.pdf#page=105[Stakeholders and Concerns])
+a|Stakeholder Need (see https://github.com/Mach30/m30ml#stakeholder-need[Stakeholder Need, window="_blank"])
+a|Stakeholders and Concerns (see https://raw.githubusercontent.com/Systems-Modeling/SysML-v2-Release/master/doc/Intro%20to%20the%20SysML%20v2%20Language-Textual%20Notation.pdf#page=105[Stakeholders and Concerns, window="_blank"])
 
-a|User Story (see https://github.com/Mach30/m30ml#user-story[User Story])
-a|Use Case Definition (see https://raw.githubusercontent.com/Systems-Modeling/SysML-v2-Release/master/doc/Intro%20to%20the%20SysML%20v2%20Language-Textual%20Notation.pdf#page=93[Use Case Definition])
+a|User Story (see https://github.com/Mach30/m30ml#user-story[User Story, window="_blank"])
+a|Use Case Definition (see https://raw.githubusercontent.com/Systems-Modeling/SysML-v2-Release/master/doc/Intro%20to%20the%20SysML%20v2%20Language-Textual%20Notation.pdf#page=93[Use Case Definition, window="_blank"])
 |===
